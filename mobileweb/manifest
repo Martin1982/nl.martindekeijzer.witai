@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+description: witai
+author: Martin de Keijzer
+license: Specify your license
+copyright: Copyright (c) 2015 by Martin  de Keijzer
+
+# these should not be edited
+name: witai
+moduleid: nl.martindekeijzer.witai
+guid: 5eec3e5f-b74d-4791-a306-4714b9e6bdd9
+platform: mobileweb
+minsdk: 4.0.0.GA
